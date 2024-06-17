@@ -1,4 +1,4 @@
-## 👋 Hi there, Ding here. Welcome to my GitHub Profile! 😃
+## 👋 Hi there, Ding here. Welcome to my GitHub profile!
 
 I'm a Software Developer and a Cloud Engineer.
 
@@ -21,6 +21,6 @@ I'm a Software Developer and a Cloud Engineer.
 | Bash | PowerShell | Terraform | Bicept/ARM template
 | Azure DevOps | Jenkins | GitHub Actions
 
-## Connect with me
+## 🔍 Find more about me
 
 - LinkedIn
