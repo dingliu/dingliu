@@ -15,7 +15,7 @@ I'm a Software Developer and a Cloud Engineer.
 
 ### When not coding, I enjoy spending time with my family, reading, and hiking. 🚶‍♂️
 
-## Languages, skills, and tools I use day to day
+## 🚀 Languages, skills, and tools I use
 
 | Python | Kubernetes | Podman | Docker | Azure | Git/GitHub
 | Bash | PowerShell | Terraform | Bicept/ARM template
