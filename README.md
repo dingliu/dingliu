@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi there, Ding here. Welcome to my GitHub Profile! 😃
 
-<!--
-**dingliu/dingliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer and a Cloud Engineer. I'm passionate about:
 
-Here are some ideas to get you started:
+- Designing cloud native distributed systems.
+- Creating CI/CD automation pipelines.
+- Building Infrastructure as Code (IaC) solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always curious on:
+
+- Learning and applying new technologies.
+- Exploring different software development paradigms.
+
+When not coding, I enjoy spending time with my family, reading, and hiking. 🚶‍♂️
+
+### Languages, skills, and tools I use day to day
+
+- Python
+- Kubernetes
+- Podman
+- Docker
+- Azure
+- Git/GitHub
+- Bash
+- PowerShell
+- Terraform
+- Bicept/ARM template
+- Azure DevOps
+- Jenkins
+- GitHub Actions
+
+### Connect with me
+
+- LinkedIn
