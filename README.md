@@ -1,34 +1,26 @@
 ## 👋 Hi there, Ding here. Welcome to my GitHub Profile! 😃
 
-I'm a Software Developer and a Cloud Engineer. I'm passionate about:
+I'm a Software Developer and a Cloud Engineer.
+
+### I'm passionate about:
 
 - Designing cloud native distributed systems.
 - Creating CI/CD automation pipelines.
 - Building Infrastructure as Code (IaC) solutions.
 
-I'm always curious on:
+### I'm always curious on:
 
 - Learning and applying new technologies.
 - Exploring different software development paradigms.
 
-When not coding, I enjoy spending time with my family, reading, and hiking. 🚶‍♂️
+### When not coding, I enjoy spending time with my family, reading, and hiking. 🚶‍♂️
 
-### Languages, skills, and tools I use day to day
+## Languages, skills, and tools I use day to day
 
-- Python
-- Kubernetes
-- Podman
-- Docker
-- Azure
-- Git/GitHub
-- Bash
-- PowerShell
-- Terraform
-- Bicept/ARM template
-- Azure DevOps
-- Jenkins
-- GitHub Actions
+| Python | Kubernetes | Podman | Docker | Azure | Git/GitHub
+| Bash | PowerShell | Terraform | Bicept/ARM template
+| Azure DevOps | Jenkins | GitHub Actions
 
-### Connect with me
+## Connect with me
 
 - LinkedIn
