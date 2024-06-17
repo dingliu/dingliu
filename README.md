@@ -1,6 +1,6 @@
-## 👋 Hi there, Ding here. Welcome to my GitHub profile!
+# 👋 Hi there, I'm Ding.
 
-I'm a Software Developer and a Cloud Engineer.
+## I'm a Software Developer and a Cloud Engineer.
 
 ### I'm passionate about:
 
