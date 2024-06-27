@@ -23,4 +23,4 @@
 
 ## :mag: Find more about me
 
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/ding-liu/)
